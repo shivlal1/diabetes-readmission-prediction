@@ -1,1 +1,3 @@
 # diabetes-readmission-prediction
+
+Unplanned early readmissions of patients occur often in Helathcare. The readmissions might be the consequence of natural course of patient's disease or results from sub-optimal care during first admission. Studies have found that 15 to 25 percent of people discharged from a hospital will be readmitted within 30 days or less and that a large number of those readmissions are preventable. If we consider only diabetes, then around 10 percent of US have diabetes.Thirty-day readmission rates for patients with diabetes are reported to be between 14.4 and 22.7 percent. The goal is to develop machine learning models which have the ability to identify the diabetic patients who are prone to early unplanned readmissions.
